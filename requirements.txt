@@ -1,0 +1,7 @@
+aiohttp>=3.7.4.post0
+gql~=3.0.0a5
+rich~=10.2.2
+pandas~=1.2.4
+plotly~=4.14.3
+dash~=1.20.0
+python-dotenv~=0.17.1
